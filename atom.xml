@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zhouyige66的个人博客</title>
+  
+  
+  <link href="https://github.com/zhouyige66/blog.git/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/zhouyige66/blog.git/"/>
+  <updated>2025-04-29T07:20:11.681Z</updated>
+  <id>https://github.com/zhouyige66/blog.git/</id>
+  
+  <author>
+    <name>zhouyige66</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于zhouyige66</title>
+    <link href="https://github.com/zhouyige66/blog.git/2025/04/29/hello-world/"/>
+    <id>https://github.com/zhouyige66/blog.git/2025/04/29/hello-world/</id>
+    <published>2025-04-29T02:13:15.724Z</published>
+    <updated>2025-04-29T07:20:11.681Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>毕业院校：西南科技大学<br>专业：通信工程<br>兴趣爱好：运动、动漫、影视、美食<br>技能：Android应用开发（10年+）、Java开发（2年）、跨平台（RN、Flutter）、HarmonyOS应用开发、iOS应用开发（swift）<br>开源：<a href="https://github.com/zhouyige66">Github</a>、<a href="https://gitee.com/zhouyige66">Gitee</a></p><h2 id="文档列表"><a href="#文档列表" class="headerlink" title="文档列表"></a>文档列表</h2><h3 id="一、开源类"><a href="#一、开源类" class="headerlink" title="一、开源类"></a>一、开源类</h3><h4 id="1-chat"><a href="#1-chat" class="headerlink" title="1.chat"></a>1.chat</h4><p>简单实现即时聊天系统（包含Server、PC、Android、iOS、Web多端通讯），更多详见<a href="https://github.com/zhouyige66/Chat">link</a>。</p><h4 id="2-ScreenShot"><a href="#2-ScreenShot" class="headerlink" title="2.ScreenShot"></a>2.ScreenShot</h4><p>Android截屏工具库（截取当前应用屏幕图像的工具类），更多详见<a href="https://github.com/zhouyige66/ScreenShot">link</a>。</p><h4 id="3-RequestPermission"><a href="#3-RequestPermission" class="headerlink" title="3.RequestPermission"></a>3.RequestPermission</h4><p>基于Aspectj实现的动态权限检查、权限申请库，更多详见<a href="https://github.com/zhouyige66/RequestPermission">link</a>。</p><h4 id="4-RequestPermissionExt"><a href="#4-RequestPermissionExt" class="headerlink" title="4.RequestPermissionExt"></a>4.RequestPermissionExt</h4><p>基于APT、JavaPoet、Javassist实现动态权限申请的工具库，更多详见<a href="https://github.com/zhouyige66/RequestPermissionExt">link</a>。</p><h3 id="二、技术类"><a href="#二、技术类" class="headerlink" title="二、技术类"></a>二、技术类</h3><h4 id="1-Android-Studio开发系统应用备忘录"><a href="#1-Android-Studio开发系统应用备忘录" class="headerlink" title="1.Android Studio开发系统应用备忘录"></a>1.Android Studio开发系统应用备忘录</h4><p>作为android开发，开发工具首选Android Studio，对于应用开发来说，与开发系统应用肯定有所差别（比如编译构建、开发调试等），所以在工作中需要对SystemUI、Settings等进行定制开发时，就需要考虑将相关源码迁入Android Studio。更多详见<a href="https://xjmz.feishu.cn/docx/GEpFdkFPLohifAxqCxdcsgJ3njg">link</a>。</p><h4 id="2-日常开发案例分享"><a href="#2-日常开发案例分享" class="headerlink" title="2.日常开发案例分享"></a>2.日常开发案例分享</h4><ol><li>自定义gradle插件实现应用内依赖统一管理，详见<a href="https://xjmz.feishu.cn/docx/Sasnd9MsxoTFYXxA3M5coWN7nkb">XR-SDK版本统一管理插件使用说明</a>、<a href="https://xjmz.feishu.cn/docx/KBmvdZQ31o9C6yx1A6wcjdYDnns">语音助理相关SDK版本管理插件</a>。</li><li>跨进程通信异常处理案例，详见<a href="https://xjmz.feishu.cn/docx/EK2CdGWGcoQD2YxIMPqce8X2nfd">记一次跨进程调用传参解析为空问题处理</a>。</li><li>内存泄露异常处理案例，详见<a href="https://xjmz.feishu.cn/docx/Tl1NdfVEmodj4LxIVyEc8jZGnMe">记一次内存泄露导致程序异常的分析过程</a>。</li><li>使用Java程序处理excel自动生成代码案例，详见<a href="https://xjmz.feishu.cn/docx/Dky9dGNUBoUy2HxnZXEc1jo1nVd">TTS Template Generator简介</a>。</li><li>Kotlin Timeout超时实践，详见<a href="https://xjmz.feishu.cn/docx/SGk9dMnZOomly6xGyxocumrBn3g">kotlin超时实践中小问题分享</a>。</li><li>代码规范反例，详见<a href="https://xjmz.feishu.cn/docx/GVrfdcCa8oYE5fxZkQ1cDbtin9c">Dirty代码随想</a>。</li><li>Kotlin协程调度器使用导致应用程序异常案例分析，详见<a href="https://xjmz.feishu.cn/docx/FDETdrZPUo6M5vxphUqcdWkpnQd">微信接听挂断耗时问题分析</a>。</li><li>应用体验优化案例，详见<a href="https://xjmz.feishu.cn/docx/Ek4SdEQKhorwtvxq4BEcUtLGnFh">ASR识别延迟问题分析与处理</a>。</li><li>so调用异常分析与解决案例，详见<a href="https://xjmz.feishu.cn/docx/HWwMdNEZkoB1h2xnbYgc9dV2nBh">记一次Android so调用崩溃的解决过程</a>。</li><li>应用性能优化案例，详见<a href="https://xjmz.feishu.cn/docx/OPjodcLKWoUkwyxZPGDcy3ZTnpc">海外版本语音助理相关内存泄露问题处理记录</a>。</li><li>使用Kotlin协程优化代码案例，详见<a href="https://xjmz.feishu.cn/docx/UsKHdwUUNoP4UoxQH5JcVVO2nig">语音助理多媒体控制垂域代码优化分享</a>。</li></ol><h4 id="3-HarmonyOS开发实例"><a href="#3-HarmonyOS开发实例" class="headerlink" title="3.HarmonyOS开发实例"></a>3.HarmonyOS开发实例</h4><ol><li>HarmonyOS应用开发实践之Node-API实践，详见<a href="https://xjmz.feishu.cn/docx/AFLjdEwKQoseImxbIGbcdpPcnPg">link</a>。</li><li>应用开发实战，源码<a href="https://gitee.com/super-lite_1/myvu-harmony">链接</a>。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;个人简介&quot;&gt;&lt;a href=&quot;#个人简介&quot; class=&quot;headerlink&quot; title=&quot;个人简介&quot;&gt;&lt;/a&gt;个人简介&lt;/h2&gt;&lt;p&gt;毕业院校：西南科技大学&lt;br&gt;专业：通信工程&lt;br&gt;兴趣爱好：运动、动漫、影视、美食&lt;br&gt;技能：Android应用开发（1</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
